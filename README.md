@@ -1,4 +1,3 @@
-![banner_github](https://github.com/lod0it/sdShelf/assets/108826169/84e58f12-3468-4051-b6ef-245d93bf4b2c)
 # Substance 3D Designer | lod0it sdShelf
 
 ### Welcome to the Substance 3D Designer Custom Shelf Repo.
