@@ -5,31 +5,36 @@ This repository is dedicated to versioning and sharing custom nodes created for 
 
 ## Table of Contents
 
-- [About Substance 3D Designer](#about-substance-3d-designer)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#installation)
 
-## About Substance 3D Designer
+## What's the purpose of this Repo?
 
 [Substance 3D Designer](https://www.substance3d.com/products/design) is a powerful node-based texturing tool that allows artists and designers to create complex materials and textures.
 
 ## Getting Started
 
+
+---
+
+## Installation
+
 1. Clone the repository to your local machine:
 
   ```bash
-   gh repo clone lod0it/sdShelf
+   git clone https://github.com/lod0it/sdShelf.git
   ```
+
 2. Open Substance 3D Designer.
 
 3. Navigate to the "Edit -> Preferences -> Projects"
 
-4. Locate the "Library" section under the "Projects" tab and set the correct location of where the repository has been cloned
+4. In the "Projects" tab Locate the "Library" and set the path where the repository has been cloned
 
 5. Restart Substance 3D Designer
 
-6. Now you're ready to go, simply search any of the custom Nodes in the library, within the Graph by clicking space on your keyboard and typing the related $identifier
+6. You're all set! Simply search any of the custom Nodes in the library by clicking ```space``` on your keyboard and typing the ```name``` of the Node
+
+7. You can find all the nodes with relative description and suggested usage in this [Document](link)
 
 ---
 
