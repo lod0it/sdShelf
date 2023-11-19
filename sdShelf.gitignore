@@ -1,8 +1,0 @@
-# Substance Designer Source Files
-
-*.sbs
-
-# Intermidiate Files
-
-autosave/
-resources/
