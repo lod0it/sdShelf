@@ -16,6 +16,7 @@ Not Familiar with Substance 3D Designer?
 
 - [Installation](#installation)
 - [Nodes Documentation](https://lod0.notion.site/lod0it-GitHub-92bafcca48f145f6867e4a30a278eff7?pvs=4)
+- [Nodes List](https://github.com/lod0it/sdShelf/discussions/4)
 
 ---
 
