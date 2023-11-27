@@ -38,11 +38,13 @@ Not Familiar with Substance 3D Designer?
 
 6. Restart Substance 3D Designer
 
-7. You're all set! Simply search any of the custom Nodes in the library by clicking ```space``` on your keyboard and typing the ```name``` of the Node, you can quickly filter my nodes by typing ```lod0```
+7. You're all set! Simply search any of the custom Nodes in the library by clicking ```space``` on your keyboard and typing the ```name``` of the Node.
+
+8. You can quickly filter my nodes by typing ```lod0```
 
 ![install_02](sources/imgs/sd_install_02.jpg)
 
-9. You can find all the nodes with relative description and suggested usage at this link -> [Nodes Documentation](https://lod0.notion.site/lod0it-GitHub-92bafcca48f145f6867e4a30a278eff7?pvs=4)
+9. If you need info on nodes usage and description open this link -> [Nodes Documentation](https://lod0.notion.site/lod0it-GitHub-92bafcca48f145f6867e4a30a278eff7?pvs=4) or this -> [Nodes List](https://github.com/lod0it/sdShelf/discussions/4)
 
 ---
 
