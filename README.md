@@ -38,7 +38,7 @@ Not Familiar with Substance 3D Designer?
 
 6. Restart Substance 3D Designer
 
-7. You're all set! Simply search any of the custom Nodes in the library by clicking ```space``` on your keyboard and typing the ```name``` of the Node
+7. You're all set! Simply search any of the custom Nodes in the library by clicking ```space``` on your keyboard and typing the ```name``` of the Node, you can quickly filter my nodes by typing ```lod0```
 
 ![install_02](sources/imgs/sd_install_02.jpg)
 
