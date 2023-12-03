@@ -1,3 +1,4 @@
+![intro](sources/imgs/x_share.jpg)
 # Substance 3D Designer | lod0it sdShelf
 
 ### Welcome to the lod0 Substance Designer Nodes Repo.
