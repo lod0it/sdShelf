@@ -1,10 +1,11 @@
-![intro](sources/imgs/x_share.jpg)
 # Substance 3D Designer | lod0it sdShelf
 
 ### Welcome to the lod0 Substance Designer Nodes Repo.
 This repo is dedicated to the versioning and sharing of custom nodes i've created in Substance 3D Designer to speed up ```materials``` and ```textures``` creation.
 
 The main objective is **sharing** so feel free to join the crew if you're willing to help the community!
+
+![intro](sources/imgs/x_share.jpg)
 
 ---
 
